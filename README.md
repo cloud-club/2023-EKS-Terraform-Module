@@ -51,6 +51,7 @@ Configure EKS cluster by deploying terraform module
     <tr>
       <td align="center"><a href="https://github.com/Eeap"><img src="https://avatars.githubusercontent.com/u/42088290?v=4" width="100px;" alt=""/><br /><sub><b>김수민</b></sub></a></td>
       <td align="center"><a href="https://github.com/ziwooda"><img src="https://avatars.githubusercontent.com/u/70079416?v=4" width="100px;" alt=""/><br /><sub><b>정지우</b></sub></a></td>
+      <td align="center"><a href="https://github.com/heungbot"><img src="https://avatars.githubusercontent.com/u/97264115?v=4" width="100px;" alt=""/><br /><sub><b>최재흥</b></sub></a></td>
     </tr>
   </tobdy>
 </table>
